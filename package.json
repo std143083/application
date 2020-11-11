@@ -1,0 +1,31 @@
+{
+  "name": "leaflet-popup-modifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@react-firebase/database": "^0.3.11",
+    "babel": "^6.23.0",
+    "firebase": "^7.24.0",
+    "leaflet": "^1.7.1",
+    "leaflet-geosearch": "^3.0.6",
+    "parcel": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/plugin-transform-react-jsx-self": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "keywords": []
+}
